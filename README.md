@@ -62,22 +62,10 @@ Para probarlo se puede de dos maneras ya sea descargando una copia en su computa
 
 [Encriptador de Texto](https://victorrodriguezl.github.io/Challenge-Encriptador-de-Texto/)
 
-**Demo:**
 
-![Demo](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/3015b1db-b343-4dce-816f-fe93f3a350c0)
 
-## Construido con 🛠️
 
-_Para desarrollar el proyecto, utilice las siguientes herramientas:_
 
-* [Trello](https://trello.com/es) - Herramienta de gestión de proyectos.
-* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web.
-
-## Autores ✒️
-
-* **Jeanmarie Quijada** - *Desarrolladora e Instructor en Alura LATAM* - [Jeanmarie](https://www.linkedin.com/in/jeanmariequijada/)
-* **Génesys Rondón** - *Desarrolladora e Instructora en Alura LATAM* - [Génesys](https://www.linkedin.com/in/genesysrondon914762182/)
-* **Victor Rodríguez** - *Desarrollador* - [Victor](https://www.linkedin.com/in/victor-manuel-rdz-l/)
 	
 		
 		
